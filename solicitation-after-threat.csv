@@ -1,0 +1,79 @@
+;Focal;Date;Time;Mother.comfort;Solicitation.after.30s;MA.OA;soli2
+1;SM1;06/06/2022;11:17:38;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+2;SM1;09/02/2022;10:57:36;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+3;SM1;16/09/2022;15:17:37;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+4;SM1;17/09/2022;13:01:39;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+5;SM1;17/11/2022;07:54:49;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+6;SM1;20/11/2022;17:22:00;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+7;SM1;21/04/2022;12:25:37;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+8;SM1;21/11/2022;11:36:03;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+9;SM1;22/04/2022;09:17:42;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+10;EM5;23/05/2022;13:34:07;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+11;EM5;29/03/2022;09:13:15;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+12;EF7;06/05/2022;08:43:16;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+13;EF7;09/05/2022;09:26:36;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+14;EF7;29/03/2022;08:47:57;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+15;SM8;04/10/2022;06:41:35;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+16;SM8;12/04/2022;10:29:32;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+17;SM8;13/09/2022;08:18:21;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+18;SM8;15/05/2022;16:29:19;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+19;SM8;22/01/2023;12:48:39;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+20;SM8;23/08/2022;09:21:49;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+21;SM8;23/08/2022;10:11:01;Mother approach or grab offspring;No solicitation + Approach mother;Mother approaching and offspring approaching;No
+22;SM8;24/08/2022;12:17:36;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+23;EM9;16/12/2022;11:26:28;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+24;EM9;19/12/2022;09:15:08;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+25;EM9;19/12/2022;09:16:14;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+26;EM9;24/03/2022;07:55:10;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+27;EM9;24/03/2022;08:50:36;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+28;EM9;24/03/2022;08:51:28;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+29;EM9;28/11/2022;11:48:17;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+30;EM9;28/11/2022;11:57:02;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+31;EM10;01/02/2023;08:27:34;Mother not approach or grab offspring;Solicitation mother + Approach mother;Mother NOT approaching and Offspring approaching;Yes
+32;EM10;01/02/2023;14:05:52;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+33;EM10;06/04/2022;11:44:10;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+34;EM10;27/01/2023;11:26:13;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+35;NM15;09/12/2022;13:52:26;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+36;NM15;20/06/2022;14:07:21;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+37;NM15;21/03/2022;11:03:53;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+38;NM15;26/02/2022;11:55:22;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+39;NM16;04/12/2022;13:16:30;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+40;NM16;18/03/2022;12:03:57;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+41;NM16;22/03/2022;14:32:49;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+42;SM19;07/10/2022;08:14:17;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+43;SM19;20/11/2022;08:45:20;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+44;SM19;27/03/2022;11:41:02;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+45;EM20;10/04/2022;14:41:58;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+46;SM22;06/02/2022;12:51:08;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+47;SM22;11/05/2022;13:19:33;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+48;SM22;11/05/2022;15:55:54;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+49;SM22;13/05/2022;14:50:46;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+50;SM22;22/08/2022;10:25:58;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+51;SM22;22/08/2022;10:54:16;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+52;SM22;22/08/2022;14:54:50;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+53;NF23;12/03/2022;14:13:04;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+54;NF23;19/03/2022;13:45:53;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+55;NF23;19/06/2022;12:06:10;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+56;SM25;06/02/2022;09:10:39;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+57;SM25;08/03/2022;08:00:59;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+58;SM25;08/03/2022;08:01:23;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+59;SM25;08/03/2022;08:04:11;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+60;SM25;20/03/2022;13:31:05;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+61;SM26;09/04/2022;13:10:19;Mother approach or grab offspring;No solicitation + No approach mother;Mother approaching and Offspring NOT approaching;No
+62;SF27;01/02/2022;12:27:55;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+63;SF27;03/05/2022;07:39:27;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+64;SF27;03/05/2022;09:18:48;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+65;SF27;03/05/2022;11:50:23;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+66;SF27;03/05/2022;12:31:01;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+67;SF27;08/08/2022;12:35:53;Mother not approach or grab offspring;No solicitation + Approach mother;Mother NOT approaching and Offspring approaching;No
+68;SF27;10/08/2022;07:04:46;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+69;SF27;12/04/2022;11:30:57;Mother not approach or grab offspring;Solicitation mother + No approach mother;Mother NOT approaching and Offspring NOT approaching;Yes
+70;SF27;13/04/2022;10:42:40;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+71;SF27;18/04/2022;07:50:15;Mother not approach or grab offspring;Solicitation mother + No approach mother;Mother NOT approaching and Offspring NOT approaching;Yes
+72;SF27;18/04/2022;07:58:23;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+73;SF27;18/04/2022;08:49:18;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+74;SF27;18/04/2022;09:50:41;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+75;SM28;12/08/2022;12:57:25;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+76;EM30;02/04/2022;13:58:27;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+77;EM30;05/03/2022;10:10:10;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No
+78;EM30;17/03/2022;11:06:50;Mother not approach or grab offspring;No solicitation + No approach mother;Mother NOT approaching and Offspring NOT approaching;No

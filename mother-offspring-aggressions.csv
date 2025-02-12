@@ -1,0 +1,201 @@
+Mother;Offspring;MO.ag;Rate;Contact;Percentage
+SF49;SM28;MO non contact;0,1;non contact;56,25
+EF50;EM70;MO non contact;0,057971014;non contact;52,17391304
+NF40;NM17;MO non contact;0,030769231;non contact;29,23076923
+SF31;SF51;MO non contact;0,033707865;non contact;16,47940075
+SF79;SM65;MO contact;0,008849558;contact;14,45427729
+SF31;SF2;MO contact;0,027027027;contact;13,21321321
+SF31;SF2;MO non contact;0,027027027;non contact;13,21321321
+EF50;EM70;MO contact;0,014492754;contact;13,04347826
+SF39;SM11;MO contact;0,016666667;contact;11,66666667
+SF81;SF66;MO contact;0,022727273;contact;11,64772727
+SF47;SM68;MO contact;0,010204082;contact;8,333333333
+SF47;SM68;MO non contact;0,010204082;non contact;8,333333333
+NF40;NM17;MO contact;0,007692308;contact;7,307692308
+NF80;NF64;MO non contact;0,011627907;non contact;6,686046512
+SF44;SM24;MO non contact;0,00729927;non contact;6,277372263
+EF36;EM54;MO contact;0,017241379;contact;5,747126437
+EF36;EM54;MO non contact;0,017241379;non contact;5,747126437
+SF31;SF51;MO contact;0,011235955;contact;5,493133583
+SF33;SF14;MO non contact;0,007042254;non contact;5,164319249
+EF36;EF7;MO non contact;0,014285714;non contact;4,761904762
+SF49;SF29;MO contact;0,006944444;contact;3,90625
+EF43;EM20;MO non contact;0,014084507;non contact;3,118712274
+EF38;EM56;MO contact;0,015151515;contact;2,852049911
+EF43;EF21;MO contact;0,007352941;contact;1,628151261
+EF43;EF21;MO non contact;0,007352941;non contact;1,628151261
+SF31;SM1;MO contact;0;contact;0
+SF31;SM1;MO non contact;0;non contact;0
+SF31;SF51;OM contact;0;contact;0
+SF31;SM1;OM contact;0;contact;0
+SF31;SF2;OM contact;0;contact;0
+SF31;SF51;OM non contact;0;non contact;0
+SF31;SM1;OM non contact;0;non contact;0
+SF31;SF2;OM non contact;0;non contact;0
+EF36;EF7;MO contact;0;contact;0
+EF36;EM54;OM contact;0;contact;0
+EF36;EF7;OM contact;0;contact;0
+EF36;EM54;OM non contact;0;non contact;0
+EF36;EF7;OM non contact;0;non contact;0
+EF38;EM9;MO contact;0;contact;0
+EF38;EM10;MO contact;0;contact;0
+EF38;EM9;MO non contact;0;non contact;0
+EF38;EM56;MO non contact;0;non contact;0
+EF38;EM10;MO non contact;0;non contact;0
+EF38;EM9;OM contact;0;contact;0
+EF38;EM56;OM contact;0;contact;0
+EF38;EM10;OM contact;0;contact;0
+EF38;EM9;OM non contact;0;non contact;0
+EF38;EM56;OM non contact;0;non contact;0
+EF38;EM10;OM non contact;0;non contact;0
+SF73;SM55;MO contact;0;contact;0
+SF73;SM55;MO non contact;0;non contact;0
+SF73;SM55;OM contact;0;contact;0
+SF73;SM55;OM non contact;0;non contact;0
+SF39;SM11;MO non contact;0;non contact;0
+SF39;SM11;OM contact;0;contact;0
+SF39;SM11;OM non contact;0;non contact;0
+SF33;SM4;MO contact;0;contact;0
+SF33;SF13;MO contact;0;contact;0
+SF33;SF14;MO contact;0;contact;0
+SF33;SM4;MO non contact;0;non contact;0
+SF33;SF13;MO non contact;0;non contact;0
+SF33;SM4;OM contact;0;contact;0
+SF33;SF13;OM contact;0;contact;0
+SF33;SF14;OM contact;0;contact;0
+SF33;SM4;OM non contact;0;non contact;0
+SF33;SF13;OM non contact;0;non contact;0
+SF33;SF14;OM non contact;0;non contact;0
+NF76;NF58;MO contact;0;contact;0
+NF76;NF58;MO non contact;0;non contact;0
+NF76;NF58;OM contact;0;contact;0
+NF76;NF58;OM non contact;0;non contact;0
+NF40;NM15;MO contact;0;contact;0
+NF40;NM15;MO non contact;0;non contact;0
+NF40;NM15;OM contact;0;contact;0
+NF40;NM17;OM contact;0;contact;0
+NF40;NM15;OM non contact;0;non contact;0
+NF40;NM17;OM non contact;0;non contact;0
+NF41;NM16;MO contact;0;contact;0
+NF41;NF18;MO contact;0;contact;0
+NF41;NM16;MO non contact;0;non contact;0
+NF41;NF18;MO non contact;0;non contact;0
+NF41;NM16;OM contact;0;contact;0
+NF41;NF18;OM contact;0;contact;0
+NF41;NM16;OM non contact;0;non contact;0
+NF41;NF18;OM non contact;0;non contact;0
+NF45;NM62;MO contact;0;contact;0
+NF45;NF23;MO contact;0;contact;0
+NF45;NM62;MO non contact;0;non contact;0
+NF45;NF23;MO non contact;0;non contact;0
+NF45;NM62;OM contact;0;contact;0
+NF45;NF23;OM contact;0;contact;0
+NF45;NM62;OM non contact;0;non contact;0
+NF45;NF23;OM non contact;0;non contact;0
+SF44;SM22;MO contact;0;contact;0
+SF44;SM24;MO contact;0;contact;0
+SF44;SM22;MO non contact;0;non contact;0
+SF44;SM22;OM contact;0;contact;0
+SF44;SM24;OM contact;0;contact;0
+SF44;SM22;OM non contact;0;non contact;0
+SF44;SM24;OM non contact;0;non contact;0
+NF77;NF60;MO contact;0;contact;0
+NF77;NF60;MO non contact;0;non contact;0
+NF77;NF60;OM contact;0;contact;0
+NF77;NF60;OM non contact;0;non contact;0
+EF43;EM20;MO contact;0;contact;0
+EF43;EM61;MO contact;0;contact;0
+EF43;EM61;MO non contact;0;non contact;0
+EF43;EM20;OM contact;0;contact;0
+EF43;EM61;OM contact;0;contact;0
+EF43;EF21;OM contact;0;contact;0
+EF43;EM20;OM non contact;0;non contact;0
+EF43;EM61;OM non contact;0;non contact;0
+EF43;EF21;OM non contact;0;non contact;0
+EF78;EF63;MO contact;0;contact;0
+EF78;EF63;MO non contact;0;non contact;0
+EF78;EF63;OM contact;0;contact;0
+EF78;EF63;OM non contact;0;non contact;0
+SF79;SM65;MO non contact;0;non contact;0
+SF79;SM65;OM contact;0;contact;0
+SF79;SM65;OM non contact;0;non contact;0
+NF80;NF64;MO contact;0;contact;0
+NF80;NF64;OM contact;0;contact;0
+NF80;NF64;OM non contact;0;non contact;0
+SF81;SF67;MO contact;0;contact;0
+SF81;SM26;MO contact;0;contact;0
+SF81;SF66;MO non contact;0;non contact;0
+SF81;SF67;MO non contact;0;non contact;0
+SF81;SM26;MO non contact;0;non contact;0
+SF81;SF66;OM contact;0;contact;0
+SF81;SF67;OM contact;0;contact;0
+SF81;SM26;OM contact;0;contact;0
+SF81;SF66;OM non contact;0;non contact;0
+SF81;SF67;OM non contact;0;non contact;0
+SF81;SM26;OM non contact;0;non contact;0
+SF47;SM68;OM contact;0;contact;0
+SF47;SM68;OM non contact;0;non contact;0
+EF82;EM69;MO contact;0;contact;0
+EF82;EM69;MO non contact;0;non contact;0
+EF82;EM69;OM contact;0;contact;0
+EF82;EM69;OM non contact;0;non contact;0
+SF49;SM28;MO contact;0;contact;0
+SF49;SF29;MO non contact;0;non contact;0
+SF49;SM28;OM contact;0;contact;0
+SF49;SF29;OM contact;0;contact;0
+SF49;SM28;OM non contact;0;non contact;0
+SF49;SF29;OM non contact;0;non contact;0
+EF50;EM30;MO contact;0;contact;0
+EF50;EM30;MO non contact;0;non contact;0
+EF50;EM30;OM contact;0;contact;0
+EF50;EM70;OM contact;0;contact;0
+EF50;EM30;OM non contact;0;non contact;0
+EF50;EM70;OM non contact;0;non contact;0
+EF71;EF52;MO contact;0;contact;NA
+EF71;EF52;MO non contact;0;non contact;NA
+EF71;EF52;OM contact;0;contact;NA
+EF71;EF52;OM non contact;0;non contact;NA
+EF34;EM5;MO contact;0;contact;NA
+EF34;EM5;MO non contact;0;non contact;NA
+EF34;EM5;OM contact;0;contact;NA
+EF34;EM5;OM non contact;0;non contact;NA
+SF35;SF6;MO contact;0;contact;NA
+SF35;SF6;MO non contact;0;non contact;NA
+SF35;SF6;OM contact;0;contact;NA
+SF35;SF6;OM non contact;0;non contact;NA
+EF72;EM53;MO contact;0;contact;NA
+EF72;EM53;MO non contact;0;non contact;NA
+EF72;EM53;OM contact;0;contact;NA
+EF72;EM53;OM non contact;0;non contact;NA
+SF37;SM8;MO contact;0;contact;NA
+SF37;SM8;MO non contact;0;non contact;NA
+SF37;SM8;OM contact;0;contact;NA
+SF37;SM8;OM non contact;0;non contact;NA
+SF32;SF3;MO contact;0;contact;NA
+SF32;SF12;MO contact;0;contact;NA
+SF32;SF3;MO non contact;0;non contact;NA
+SF32;SF12;MO non contact;0,02;non contact;NA
+SF32;SF3;OM contact;0;contact;NA
+SF32;SF12;OM contact;0;contact;NA
+SF32;SF3;OM non contact;0;non contact;NA
+SF32;SF12;OM non contact;0;non contact;NA
+SF74;SF59;MO contact;0;contact;NA
+SF74;SF59;MO non contact;0;non contact;NA
+SF74;SF59;OM contact;0;contact;NA
+SF74;SF59;OM non contact;0;non contact;NA
+EF75;EF57;MO contact;0;contact;NA
+EF75;EF57;MO non contact;0;non contact;NA
+EF75;EF57;OM contact;0;contact;NA
+EF75;EF57;OM non contact;0;non contact;NA
+SF42;SM19;MO contact;0;contact;NA
+SF42;SM19;MO non contact;0;non contact;NA
+SF42;SM19;OM contact;0;contact;NA
+SF42;SM19;OM non contact;0;non contact;NA
+SF46;SM25;MO contact;0;contact;NA
+SF46;SM25;MO non contact;0;non contact;NA
+SF46;SM25;OM contact;0;contact;NA
+SF46;SM25;OM non contact;0;non contact;NA
+SF48;SF27;MO contact;0;contact;NA
+SF48;SF27;MO non contact;0,016393443;non contact;NA
+SF48;SF27;OM contact;0;contact;NA
+SF48;SF27;OM non contact;0;non contact;NA
