@@ -17,8 +17,9 @@ packages <- c(
 )
 
 install.packages(packages)
+install.packages("svglite")
 
-
+library(svglite)
 library(colorspace)
 library(viridis)
 library(ggeffects)
@@ -528,9 +529,25 @@ plot_obj <- plot(c_eff_test1, plot = FALSE)[[1]]
 summary(Model.2)
 
 # Customize x-axis labels
-unscaled_breaks <- 0:120
-scaled_breaks <- ((unscaled_breaks - mean(offspring.reaction.UTE.data$Age.z)) / sd(offspring.reaction.UTE.data$Age.z))
-x_labels <- ifelse(seq_along(unscaled_breaks) %% 12 == 1, sprintf("%.0f", unscaled_breaks), "")
+# Estimate the mean and SD from Age.z and whatever raw Age ranges you expect
+# For example, if you *know* that Age.z ranges from ~-1.5 to 1.5
+# and that corresponds to raw ages from 0 to 120 months:
+
+# Back-calculate approximate mean and SD
+age_min <- 0     # assume 0 months ~ lowest Age.z
+age_max <- 120   # assume 120 months ~ highest Age.z
+z_min <- min(offspring.reaction.UTE.data$Age.z, na.rm = TRUE)
+z_max <- max(offspring.reaction.UTE.data$Age.z, na.rm = TRUE)
+
+# Approximate SD and mean from linear relationship
+approx_sd <- (age_max - age_min) / (z_max - z_min)
+approx_mean <- age_min - z_min * approx_sd
+
+# Now compute unscaled axis breaks
+unscaled_breaks <- seq(0, 120, by = 12)
+scaled_breaks <- (unscaled_breaks - approx_mean) / approx_sd
+x_labels <- as.character(unscaled_breaks)
+
 
 # Plot with customized x-axis labels and axis name
 
@@ -599,8 +616,15 @@ Figure2a<-plot_obj +
   )
 
 
+Figure2a
+
+
+
+
 #save
 ggsave("Figure2a.svg", plot = Figure2a, width = 12, height = 10, dpi = 300)
+ggsave("Figure2a.pdf", plot = Figure2a, width = 12, height = 10, dpi = 300)
+
 
 #graph with behaviours and deviation Figure 3
 
@@ -740,8 +764,8 @@ Figure3b<-fviz_pca_biplot(
   palette = c("brown", "dodgerblue2", "orange"),
   pointshape = 16,
   legend = "top",
-  pointsize = 6,
-  labelsize = 5,
+  pointsize = 7,
+  labelsize = 6,
   geom = "point"
 ) +
   labs(
@@ -749,10 +773,10 @@ Figure3b<-fviz_pca_biplot(
     y = "Dim 2 (13.8%) explained by Approaching another individual"   # Change Y-axis title
   ) +
   theme(
-    legend.text = element_text(size = 14),
-    axis.text = element_text(size = 14),
-    axis.title = element_text(size = 14),
-    plot.title = element_text(size = 16)
+    legend.text = element_text(size = 16),
+    axis.text = element_text(size = 16),
+    axis.title = element_text(size = 16),
+    plot.title = element_text(size = 18)
   ) +
   guides(col = guide_legend(title = NULL))  # Remove "col." in the legend title
 
